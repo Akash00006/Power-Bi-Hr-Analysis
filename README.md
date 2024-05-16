@@ -3,7 +3,7 @@
 Let's enhance employee productivity and retention by crafting an HR analysis dashboard. This dashboard will provide valuable insights to understand factors influencing employee performance and satisfaction, ultimately aiding in reducing turnover rates.
 
 
-##Project Learnings 
+## Project Learnings 
 • Identified key factors to reduce attrition 
 • Improved the hiring process 
 • Improved employee experience 
